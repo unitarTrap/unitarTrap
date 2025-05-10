@@ -6,4 +6,7 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"ChatGPT Badge"/>
   <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/anaconda-green?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jupiter-orange?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </div>
